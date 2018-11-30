@@ -1054,62 +1054,56 @@ To display the banner, create a new banner in **Marketing** > **Banners**:
         	<div class="banner-item">
                 <div class="banner-item-wrapper">
                     <div class="banner-image">
-                        <img src="/product_images/uploaded_images/01-home05-03.jpg" alt="01-home05-03.jpg">
+                        <a href="#" title="Earrings"><img title="marco-jewelry-05.jpg" src="/product_images/uploaded_images/marco-jewelry-05.jpg" alt="marco-jewelry-05.jpg"></a>
                     </div>
                     <div class="banner-content">
-                        <h4 class="banner-title">Leather<br>Bags</h4>
-                        <a href="#" title="Summer Sale">Shop Now<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-03.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                        <h4 class="banner-title"><a href="#" title="Earrings">Earrings</a></h4>
                     </div>
                 </div>
         	</div>
             <div class="banner-item">
                 <div class="banner-item-wrapper">
                     <div class="banner-image">
-                        <img src="/product_images/uploaded_images/01-home05-05.jpg" alt="01-home05-05.jpg">
+                        <a href="#" title="Bracelets"><img src="/product_images/uploaded_images/marco-jewelry-07.jpg" alt="marco-jewelry-07.jpg"></a>
                     </div>
                     <div class="banner-content">
-                        <h4 class="banner-title">Vintage<br>Watches</h4>
-                        <a href="#" title="Summer Sale">Shop Now<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                        <h4 class="banner-title"><a href="#" title="Bracelets">Bracelets</a></h4>
                     </div>
                 </div>
             </div>
             <div class="banner-item">
                 <div class="banner-item-wrapper">
                     <div class="banner-image">
-                        <img src="/product_images/uploaded_images/01-home05-07.jpg" alt="01-home05-07.jpg">
+                        <a href="#" title="Luxury Rings"><img src="/product_images/uploaded_images/marco-jewelry-07-09.jpg" alt="marco-jewelry-07-09.jpg"></a>
                     </div>
                     <div class="banner-content">
-                        <h4 class="banner-title">Gents<br>T-Shirts</h4>
-                        <a href="#" title="Summer Sale">Shop Now<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                        <h4 class="banner-title"><a href="#" title="LUXURY RINGS">Luxury Rings</a></h4>
                     </div>
                 </div>
             </div>
             <div class="banner-item">
                 <div class="banner-item-wrapper">
                     <div class="banner-image">
-                        <img src="/product_images/uploaded_images/01-home05-13.jpg" alt="01-home05-13.jpg">
+                        <a href="#" title="Luxury Watch"><img src="/product_images/uploaded_images/marco-jewelry-14.jpg" alt="marco-jewelry-14.jpg"></a>
                     </div>
                     <div class="banner-content">
-                        <h4 class="banner-title">Women Shoes</h4>
-                        <a href="#" title="Summer Sale">Shop Now<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                        <h4 class="banner-title"><a href="#" title="Luxury Watch">Luxury Watch</a></h4>
                     </div>
                 </div>
             </div>
             <div class="banner-item">
                 <div class="banner-item-wrapper">
                     <div class="banner-image">
-                        <img src="/product_images/uploaded_images/01-home05-14.jpg" alt="01-home05-14.jpg">
+                        <a href="#" title="Necklaces"><img src="/product_images/uploaded_images/marco-jewelry-16.jpg" alt="marco-jewelry-16.jpg"></a>
                     </div>
                     <div class="banner-content">
-                        <h4 class="banner-title">Sunglasses</h4>
-                        <a href="#" title="Summer Sale">Shop Now<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                        <h4 class="banner-title"><a href="#" title="Necklaces">Necklaces</a></h4>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
 ```
 
 Or use button below to generate HTML code with your custom content:
@@ -1129,7 +1123,7 @@ Or use button below to generate HTML code with your custom content:
         <div class="container">
         	<div class="banner-item">
                 <div class="banner-image">
-                    <img src="/product_images/uploaded_images/banner-one.jpg" alt="banner-one.jpg">
+                    <img title="banner-one.jpg" src="/product_images/uploaded_images/banner-one.jpg" alt="banner-one.jpg">
                 </div>
                 <div class="banner-content">
                     <h4 class="banner-title">Summer Sale</h4>
@@ -1154,24 +1148,64 @@ Or use button below to generate HTML code with your custom content:
 ![homepage 1 banners](img/banners-3.png)
 
 ```html
-<div class="lightnight-section lightnight-section--banner lightnight-section--banner--banner3" data-local-banner-position="lightnight-home-banner3">
-  <div class="lightnight-banner lightnight-banner--full">
-    <div class="banner-left">
-      <div class="banner-item">
-        <img title="blog2.jpg" src="/product_images/uploaded_images/banner1.jpg" alt="banner1.jpg" />
-      </div>
+<div class="livia-section livia-section--banner livia-section--banner--banner3" data-local-banner-position="livia-home-banner3">
+    <div class="lightnight-banner lightnight-banner--full">
+        <div class="container">
+            <div class="banner-list">
+            	<div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-1.png" alt="brand-1.png">
+                        </a>
+                    </div>
+            	</div>
+            	<div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-2.png" alt="brand-2.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-3.png" alt="brand-3.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-4.png" alt="brand-4.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-5.png" alt="brand-5.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-6.png" alt="brand-6.png">
+                        </a>
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="#" title="brand-1">
+                            <img src="/product_images/uploaded_images/brand-7.png" alt="brand-7.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="banner-right">
-      <div class="banner-content">
-          <h4 class="banner-title">Buy 1 Get 1 </h4>
-          <a href="#" class="button" title="See full collection">See full collection</a>
-      </div>
-      <div class="banner-item">
-          <img title="blog4.jpg" src="/product_images/uploaded_images/banner4.jpg" alt="banner4.jpg" />
-      </div>
-    </div>
-  </div>
 </div>
+
 ```
 
 Or use button below to generate HTML code with your custom content:
@@ -1189,80 +1223,104 @@ Or use button below to generate HTML code with your custom content:
 <div class="livia-section livia-section--banner livia-section--banner--banner4" data-local-banner-position="livia-home-banner4">
     <div class="lightnight-banner lightnight-banner--full">
         <div class="container">
-            <p class="page-subheading">What our customers are saying</p>
-            <h2 class="page-heading">Customer Reviews</h2>
+            <h2 class="page-heading"><span>Recent Customer Reviews</span></h2>
             <div class="banner-list" data-banner-slick>
-            	<div class="banner-item">
+                <div class="banner-item">
                     <div class="banner-content">
-                		<h4 class="banner-title">Loved My New Belted Long Black Pants</h4>
                         <div class="banner-rating">
                             <div class="banner-star">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star-empty.jpg" src="/product_images/uploaded_images/star-empty.jpg" alt="star-empty.jpg">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
                             </div>
-                            <div class="banner-rating--average">Very Good</div>
                         </div>
-        				<p class="banner-desc">There are many variations of passages of available but the majority have suffered alteration in some of form by injected  humour or randomised words.</p>
-                        <div class="banner-auth">
-                            <div class="banner-auth-avata">
-                                <img title="avata1.jpg" src="/product_images/uploaded_images/avata1.jpg" alt="avata1.jpg">
-                            </div> 
-                            <div class="banner-auth-name">Kethy Jenefir</div> 
-                        </div>
+                        <h4 class="banner-title">Pontiac GTO T Shirt - First Muscle</h4>
+                        <p class="banner-desc">My husband was so pleased with this shirt! He just kept asking where did I find it! His other GTO owner friends will be ordering, too!!!</p>
                     </div>
-            	</div>
-            	<div class="banner-item">
-                    <div class="banner-content">
-                        <h4 class="banner-title">Loved My New Belted Long Black Pants</h4>
-                        <div class="banner-rating">
-                            <div class="banner-star">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                            </div>
-                            <div class="banner-rating--average">Excellent</div>
-                        </div>
-                        <p class="banner-desc">There are many variations of passages of available but the majority have suffered alteration in some of form by injected  humour or randomised words.</p>
-                        <div class="banner-auth">
-                            <div class="banner-auth-avata">
-                                <img title="avata2.jpg" src="/product_images/uploaded_images/avata2.jpg" alt="avata2.jpg">
-                            </div> 
-                            <div class="banner-auth-name">Paul Smith</div> 
-                        </div>
+                    <div class="banner-auth">
+                        <div class="banner-auth-name">Kethy Jenefir</div> 
                     </div>
                 </div>
                 <div class="banner-item">
                     <div class="banner-content">
-                        <h4 class="banner-title">Loved My New Belted Long Black Pants</h4>
                         <div class="banner-rating">
                             <div class="banner-star">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
-                                <img title="star-empty.jpg" src="/product_images/uploaded_images/star-empty.jpg" alt="star-empty.jpg">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
                             </div>
-                            <div class="banner-rating--average">Very Good</div>
                         </div>
-                        <p class="banner-desc">There are many variations of passages of available but the majority have suffered alteration in some of form by injected  humour or randomised words.</p>
-                        <div class="banner-auth">
-                            <div class="banner-auth-avata">
-                                <img title="avata3.jpg" src="/product_images/uploaded_images/avata3.jpg" alt="avata3.jpg">
-                            </div> 
-                            <div class="banner-auth-name">John Doe</div> 
+                        <h4 class="banner-title">Pontiac GTO T Shirt - First Muscle</h4>
+                        <p class="banner-desc">I really love the shirt because my face is very pretty, I will buy more in the near future. thank you</p>
+                    </div>
+                    <div class="banner-auth">
+                        <div class="banner-auth-name">Paul Smith</div> 
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-content">
+                        <div class="banner-rating">
+                            <div class="banner-star">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star-empty.png" src="/product_images/uploaded_images/star-empty.png" alt="star-empty.png">
+                            </div>
                         </div>
+                        <h4 class="banner-title">Mopar T Shirt - Mopar Or No Car</h4>
+                        <p class="banner-desc">I think my hoodie and my shirt are great even tho I haven't worn them yet; when I do I will send you a picture of me wearing them, how about that? 
+</p>
+                    </div>
+                     <div class="banner-auth">
+                        <div class="banner-auth-name">John Doe</div> 
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-content">
+                        <div class="banner-rating">
+                            <div class="banner-star">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star-empty.png" src="/product_images/uploaded_images/star-empty.png" alt="star-empty.png">
+                            </div>
+                        </div>
+                        <h4 class="banner-title">Pontiac GTO T Shirt - First Muscle</h4>
+                        <p class="banner-desc">My husband was so pleased with this shirt! He just kept asking where did I find it! His other GTO owner friends will be ordering, too!!!</p>
+                    </div>
+                    <div class="banner-auth">
+                        <div class="banner-auth-name">Kethy Jenefir</div> 
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-content">
+                        <div class="banner-rating">
+                            <div class="banner-star">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star.png" src="/product_images/uploaded_images/star.png" alt="star.png">
+                                <img title="star-empty.png" src="/product_images/uploaded_images/star-empty.png" alt="star-empty.png">
+                            </div>
+                        </div>
+                        <h4 class="banner-title">Pontiac GTO T Shirt - First Muscle</h4>
+                        <p class="banner-desc">I really love the shirt because my face is very pretty, I will buy more in the near future. thank you</p>
+                    </div>
+                    <div class="banner-auth">
+                        <div class="banner-auth-name">Paul Smith</div> 
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
 ```
 
 Or use button below to generate HTML code with your custom content:
@@ -1320,6 +1378,7 @@ Or use button below to generate HTML code with your custom content:
         </div>
     </div>
 </div>
+
 ```
 
 Or use button below to generate HTML code with your custom content:
