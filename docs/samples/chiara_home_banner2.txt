@@ -1,0 +1,16 @@
+<div class="livia-section livia-section--banner livia-section--banner--banner2" data-local-banner-position="livia-home-banner2">
+    <div class="lightnight-banner">
+        <div class="container">
+            <div class="banner-item">
+                <div class="banner-image">
+                    <img src="{{banner2_img}}" alt="{{banner2_alt}}">
+                </div>
+                <div class="banner-content">
+                    <h4 class="banner-title">{{banner2_title}}</h4>
+                    <div class="banner-percent">{{banner2_percent}}<em>%</em><span>off</span></div>
+                    <a href="{{banner2_button_url}}" title="{{banner2_button_text}}">{{banner2_button_text}}<img title="arrow-slim-right.png" src="/product_images/uploaded_images/arrow-slim-right.png" alt="arrow-slim-right.png"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

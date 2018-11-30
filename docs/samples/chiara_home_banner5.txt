@@ -1,0 +1,42 @@
+<div class="livia-section livia-section--banner livia-section--banner--banner5" data-local-banner-position="livia-home-banner5">
+    <div class="lightnight-banner lightnight-banner--boxed">
+        <div class="banner-list">
+        	<div class="banner-item">
+                <div class="banner-image">
+                    <img src="{{item1_img}}" alt="{{item1_alt}}" />
+                </div>
+                <div class="banner-content">
+            		<h4 class="banner-title">{{item1_title}}</h4>
+    				<p class="banner-desc">{{item1_subTitle}}</p>
+                </div>
+        	</div>
+        	<div class="banner-item">
+                <div class="banner-image">
+                    <img src="{{item2_img}}" alt="{{item2_alt}}" />
+                </div>
+                <div class="banner-content">
+            		<h4 class="banner-title">{{item2_title}}</h4>
+    				<p class="banner-desc">{{item2_subTitle}}</p>
+            	</div>
+            </div>
+        	<div class="banner-item">
+                <div class="banner-image">
+                    <img src="{{item3_img}}" alt="{{item3_alt}}" />
+                </div>
+                <div class="banner-content">
+            		<h4 class="banner-title">{{item3_title}}</h4>
+    				<p class="banner-desc">{{item3_subTitle}}</p>
+            	</div>
+            </div>
+            <div class="banner-item">
+                <div class="banner-image">
+                    <img src="{{item4_img}}" alt="{{item4_alt}}" />
+                </div>
+                <div class="banner-content">
+                    <h4 class="banner-title">{{item4_title}}</h4>
+                    <p class="banner-desc">{{item4_subTitle}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
