@@ -1,0 +1,57 @@
+<div class="livia-section livia-section--banner livia-section--banner--banner3" data-local-banner-position="livia-home-banner3">
+    <div class="lightnight-banner lightnight-banner--full">
+        <div class="container">
+            <div class="banner-list">
+            	<div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item1_url" title="item1_text">
+                            <img src="{{item1_img}}" alt="{{item1_alt}}">
+                        </a>
+                    </div>
+            	</div>
+            	<div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item2_url" title="item2_text">
+                            <img src="{{item2_img}}" alt="{{item2_alt}}">
+                        </a>
+                    </div>
+            	</div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item3_url" title="item3_text">
+                            <img src="{{item3_img}}" alt="{{item3_alt}}">
+                        </a>
+                    </div>
+            	</div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item4_url" title="item4_text">
+                            <img src="{{item4_img}}" alt="{{item4_alt}}">
+                        </a>
+                    </div>
+            	</div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item5_url" title="item5_text">
+                            <img src="{{item5_img}}" alt="{{item5_alt}}">
+                        </a>
+                    </div>
+            	</div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item6_url" title="item6_text">
+                            <img src="{{item6_img}}" alt="{{item6_alt}}">
+                        </a>
+                    </div>
+            	</div>
+                <div class="banner-item">
+                    <div class="banner-image">
+                        <a href="item7_url" title="item7_text">
+                            <img src="{{item7_img}}" alt="{{item7_alt}}">
+                        </a>
+                    </div>
+            	</div>
+            </div>
+        </div>
+    </div>
+</div>

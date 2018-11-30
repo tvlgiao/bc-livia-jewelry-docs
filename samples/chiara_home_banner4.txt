@@ -1,0 +1,76 @@
+<div class="livia-section livia-section--banner livia-section--banner--banner4" data-local-banner-position="livia-home-banner4">
+    <div class="lightnight-banner lightnight-banner--full">
+        <div class="container">
+            <p class="page-subheading">What our customers are saying</p>
+            <h2 class="page-heading">Customer Reviews</h2>
+            <div class="banner-list" data-banner-slick>
+            	<div class="banner-item">
+                    <div class="banner-content">
+                		<h4 class="banner-title">Loved My New Belted Long Black Pants</h4>
+                        <div class="banner-rating">
+                            <div class="banner-star">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star-empty.jpg" src="/product_images/uploaded_images/star-empty.jpg" alt="star-empty.jpg">
+                            </div>
+                            <div class="banner-rating--average">Very Good</div>
+                        </div>
+        				<p class="banner-desc">There are many variations of passages of available but the majority have suffered alteration in some of form by injected  humour or randomised words.</p>
+                        <div class="banner-auth">
+                            <div class="banner-auth-avata">
+                                <img title="avata1.jpg" src="/product_images/uploaded_images/avata1.jpg" alt="avata1.jpg">
+                            </div> 
+                            <div class="banner-auth-name">Kethy Jenefir</div> 
+                        </div>
+                    </div>
+            	</div>
+            	<div class="banner-item">
+                    <div class="banner-content">
+                        <h4 class="banner-title">Loved My New Belted Long Black Pants</h4>
+                        <div class="banner-rating">
+                            <div class="banner-star">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                            </div>
+                            <div class="banner-rating--average">Excellent</div>
+                        </div>
+                        <p class="banner-desc">There are many variations of passages of available but the majority have suffered alteration in some of form by injected  humour or randomised words.</p>
+                        <div class="banner-auth">
+                            <div class="banner-auth-avata">
+                                <img title="avata2.jpg" src="/product_images/uploaded_images/avata2.jpg" alt="avata2.jpg">
+                            </div> 
+                            <div class="banner-auth-name">Paul Smith</div> 
+                        </div>
+                    </div>
+                </div>
+                <div class="banner-item">
+                    <div class="banner-content">
+                        <h4 class="banner-title">Loved My New Belted Long Black Pants</h4>
+                        <div class="banner-rating">
+                            <div class="banner-star">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star.jpg" src="/product_images/uploaded_images/star.jpg" alt="star.jpg">
+                                <img title="star-empty.jpg" src="/product_images/uploaded_images/star-empty.jpg" alt="star-empty.jpg">
+                            </div>
+                            <div class="banner-rating--average">Very Good</div>
+                        </div>
+                        <p class="banner-desc">There are many variations of passages of available but the majority have suffered alteration in some of form by injected  humour or randomised words.</p>
+                        <div class="banner-auth">
+                            <div class="banner-auth-avata">
+                                <img title="avata3.jpg" src="/product_images/uploaded_images/avata3.jpg" alt="avata3.jpg">
+                            </div> 
+                            <div class="banner-auth-name">John Doe</div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,61 @@
+<div class="livia-section livia-section--banner livia-section--banner--banner1" data-local-banner-position="livia-home-banner1">
+    <div class="lightnight-banner">
+        <div class="banner-list"> 
+        	<div class="banner-item">
+                <div class="banner-item-wrapper">
+                    <div class="banner-image">
+                        <img src="{{img1_url}}" alt="{{img1_alt}}">
+                    </div>
+                    <div class="banner-content">
+                        <h4 class="banner-title">{{title1}}</h4>
+                        <a href="{{button1_url}}" title="{{button1_text}}">{{button1_text}}<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-03.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                    </div>
+                </div>
+        	</div>
+            <div class="banner-item">
+                <div class="banner-item-wrapper">
+                    <div class="banner-image">
+                        <img src="{{img2_url}}" alt="{{img2_alt}}">
+                    </div>
+                    <div class="banner-content">
+                        <h4 class="banner-title">{{title2}}</h4>
+                        <a href="{{button2_url}}" title="{{button2_text}}">{{button2_text}}<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-item">
+                <div class="banner-item-wrapper">
+                    <div class="banner-image">
+                        <img src="{{img3_url}}" alt="{{img3_alt}}">
+                    </div>
+                    <div class="banner-content">
+                        <h4 class="banner-title">{{title3}}</h4>
+                        <a href="{{button3_url}}" title="{{button3_text}}">{{button3_text}}<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-item">
+                <div class="banner-item-wrapper">
+                    <div class="banner-image">
+                        <img src="{{img4_url}}" alt="{{img4_alt}}">
+                    </div>
+                    <div class="banner-content">
+                        <h4 class="banner-title">{{title4}}</h4>
+                        <a href="{{button4_url}}" title="{{button4_text}}">{{button4_text}}<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-item">
+                <div class="banner-item-wrapper">
+                    <div class="banner-image">
+                        <img src="{{img5_url}}" alt="{{img5_alt}}">
+                    </div>
+                    <div class="banner-content">
+                        <h4 class="banner-title">{{title5}}</h4>
+                        <a href="{{button5_url}}" title="{{button5_text}}">{{button5_text}}<img title="arrow-slim-right-02.png" src="/product_images/uploaded_images/arrow-slim-right-02.png" alt="arrow-slim-right-02.png"><img title="arrow-slim-right-03.png" src="/product_images/uploaded_images/arrow-slim-right-03.png" alt="arrow-slim-right-03.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
